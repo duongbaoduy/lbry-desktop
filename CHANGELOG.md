@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Fixed
 
 - Fix report page layout ([#4384](https://github.com/lbryio/lbry-desktop/pull/4384))
+- Fix incorrect creator status shown when navigating between channels ([#3750](https://github.com/lbryio/lbry-desktop/issues/3750))
 
 ## [0.46.2] - [2020-06-10]
 
